@@ -76,3 +76,5 @@ Alerts and recommendations are provided if:
 The wind load exceeds safety thresholds, indicating reinforcement may be necessary.
 The wind load is approaching the safety limit, suggesting closer monitoring of the structure.
 
+Video Link:
+https://drive.google.com/drive/folders/1p5qRXMEvi3ocqFiafiTjhh3K4aeFpRVp?usp=sharing
