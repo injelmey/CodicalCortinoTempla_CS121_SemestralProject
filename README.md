@@ -1,4 +1,4 @@
-#CodicalCortinoTempla_CS121_SemestralProject
+#CodizalCortinoTempla_CS121_SemestralProject
 
 WELCOME TO THE SOIL ANALYSIS & WIND LOAD CALCULATOR!
 
