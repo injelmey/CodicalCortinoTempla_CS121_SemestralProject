@@ -78,3 +78,5 @@ The wind load is approaching the safety limit, suggesting closer monitoring of t
 
 Video Link:
 https://drive.google.com/drive/folders/1p5qRXMEvi3ocqFiafiTjhh3K4aeFpRVp?usp=sharing
+Updated Video Link:
+https://drive.google.com/drive/folders/1d5mGF333-zp9wV4FkYrqB872rn52paSh?usp=sharing
